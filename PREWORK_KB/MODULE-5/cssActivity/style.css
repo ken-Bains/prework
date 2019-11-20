@@ -1,0 +1,18 @@
+.styledFont {
+    color: green;
+}
+h1, #centerText {
+    text-align: center;
+}
+#redText {
+    color: red;
+}
+#blueText {
+    color: blue;
+}
+#bigText{
+    font-size: 30px;
+}
+#smallText{
+    font-size: 8px;
+}
